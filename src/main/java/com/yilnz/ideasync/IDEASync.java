@@ -119,10 +119,10 @@ public class IDEASync extends DefaultHandler {
 				disabledIds.add(plugin);
 			}
 			plugins.removeAll(disabledIds);
-			final String s1 = plugins.stream().map(e -> e.name == null ? e.id : e.name).collect(Collectors.toList()).toString().replaceAll("\\[|\\]", "").replaceAll("\\s*,\\s*", "\n").trim();
-			final String s2 = plugins.stream().map(e -> e.id).collect(Collectors.toList()).toString().replaceAll("\\[|\\]", "").replaceAll("\\s*,\\s*", "\n").trim();
+			final String s1 = plugins.stream().map(e -> String.format("%s --------------------------------- %s" , (e.name == null ? e.id : e.name) , e.id)).collect(Collectors.toList()).toString().replaceAll("\\[|\\]", "").replaceAll("\\s*,\\s*", "\n").trim();
+			//final String s2 = plugins.stream().map(e -> e.id).collect(Collectors.toList()).toString().replaceAll("\\[|\\]", "").replaceAll("\\s*,\\s*", "\n").trim();
 			Files.write(Paths.get(writePath), s1.getBytes(), StandardOpenOption.TRUNCATE_EXISTING);
-			Files.write(Paths.get(writePath2), s2.getBytes(), StandardOpenOption.TRUNCATE_EXISTING);
+			//Files.write(Paths.get(writePath2), s2.getBytes(), StandardOpenOption.TRUNCATE_EXISTING);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

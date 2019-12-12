@@ -1,26 +1,26 @@
-Free MyBatis plugin
-Ideolog
-HighlightBracketPair
-Vue.js
-Java Method Reference Diagram
-SequenceDiagram
-IdeaVim
-JRebel for IntelliJ
-IntelliJ API Watcher
-AceJump
-Logger folding
-Console Log
-Stack trace to UML
-FindBugs-IDEA
-leetcode editor
-IDE Features Trainer
-IdeaVIM
-LocalVariable Highlighter
-Lombok
-NodeJS
-.ignore
-Grep Console
-simpleUML
-Python
-CamelCase
-AltN8
+Free MyBatis plugin --------------------------------- cn.wuzhizhan.plugin.mybatis
+Ideolog --------------------------------- com.intellij.ideolog
+HighlightBracketPair --------------------------------- io.github.qeesung.component.HighlightBracketPair
+Vue.js --------------------------------- AceJump
+Java Method Reference Diagram --------------------------------- ch.docksnet.rgraph
+SequenceDiagram --------------------------------- SequenceDiagram
+IdeaVim --------------------------------- com.github.setial
+JRebel for IntelliJ --------------------------------- JRebelPlugin
+IntelliJ API Watcher --------------------------------- com.jetbrains.intellij.api.watcher
+AceJump --------------------------------- com.github.me10zyl.enhancedfilesearch
+Logger folding --------------------------------- com.github.healarconr.loggerfolding
+Console Log --------------------------------- org.igu.plugins.consolelog
+Stack trace to UML --------------------------------- ru.leoklo.stackuml
+FindBugs-IDEA --------------------------------- FindBugs-IDEA
+leetcode editor --------------------------------- leetcode-editor
+IDE Features Trainer --------------------------------- training
+IdeaVIM --------------------------------- IdeaVIM
+LocalVariable Highlighter --------------------------------- com.yilnz.intellij.highlighter.LocalVariableHighlighter
+Lombok --------------------------------- Lombook Plugin
+NodeJS --------------------------------- com.senthil.codesearch
+.ignore --------------------------------- mobi.hsz.idea.gitignore
+Grep Console --------------------------------- GrepConsole
+simpleUML --------------------------------- com.sjhy.plugin.easycode
+Python --------------------------------- Pythonid
+CamelCase --------------------------------- de.netnexus.camelcaseplugin
+AltN8 --------------------------------- Alt n 8
