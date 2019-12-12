@@ -1,0 +1,26 @@
+Free MyBatis plugin
+Ideolog
+HighlightBracketPair
+Vue.js
+Java Method Reference Diagram
+SequenceDiagram
+IdeaVim
+JRebel for IntelliJ
+IntelliJ API Watcher
+AceJump
+Logger folding
+Console Log
+Stack trace to UML
+FindBugs-IDEA
+leetcode editor
+IDE Features Trainer
+IdeaVIM
+LocalVariable Highlighter
+Lombok
+NodeJS
+.ignore
+Grep Console
+simpleUML
+Python
+CamelCase
+AltN8

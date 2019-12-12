@@ -1,0 +1,6 @@
+cd target/classes
+java com.yilnz.ideasync.IDEASync
+cd ../..
+git add .
+git commit -am "update"
+git push -u origin master
