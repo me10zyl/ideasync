@@ -1,11 +1,13 @@
 Free MyBatis plugin --------------------------------- cn.wuzhizhan.plugin.mybatis
 Ideolog --------------------------------- com.intellij.ideolog
+simpleUML --------------------------------- com.nvinayshetty.DTOnator
 HighlightBracketPair --------------------------------- io.github.qeesung.component.HighlightBracketPair
 Vue.js --------------------------------- AceJump
 Java Method Reference Diagram --------------------------------- ch.docksnet.rgraph
 SequenceDiagram --------------------------------- SequenceDiagram
 IdeaVim --------------------------------- com.github.setial
 JRebel for IntelliJ --------------------------------- JRebelPlugin
+com.codota.csp.intellij --------------------------------- com.codota.csp.intellij
 IntelliJ API Watcher --------------------------------- com.jetbrains.intellij.api.watcher
 AceJump --------------------------------- com.github.me10zyl.enhancedfilesearch
 Logger folding --------------------------------- com.github.healarconr.loggerfolding
@@ -15,12 +17,11 @@ FindBugs-IDEA --------------------------------- FindBugs-IDEA
 leetcode editor --------------------------------- leetcode-editor
 IDE Features Trainer --------------------------------- training
 IdeaVIM --------------------------------- IdeaVIM
-LocalVariable Highlighter --------------------------------- com.yilnz.intellij.highlighter.LocalVariableHighlighter
 Lombok --------------------------------- Lombook Plugin
 NodeJS --------------------------------- com.senthil.codesearch
 .ignore --------------------------------- mobi.hsz.idea.gitignore
 Grep Console --------------------------------- GrepConsole
-simpleUML --------------------------------- com.sjhy.plugin.easycode
+Codota --------------------------------- com.sjhy.plugin.easycode
 Python --------------------------------- Pythonid
 CamelCase --------------------------------- de.netnexus.camelcaseplugin
 AltN8 --------------------------------- Alt n 8

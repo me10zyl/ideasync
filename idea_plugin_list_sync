@@ -1,3 +1,4 @@
+cd /Users/zyl/Documents/itaojingit/ideasync
 cd target/classes
 java com.yilnz.ideasync.IDEASync
 cd ../..
