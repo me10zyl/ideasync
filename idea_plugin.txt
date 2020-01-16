@@ -25,3 +25,4 @@ Codota --------------------------------- com.sjhy.plugin.easycode
 Python --------------------------------- Pythonid
 CamelCase --------------------------------- de.netnexus.camelcaseplugin
 AltN8 --------------------------------- Alt n 8
+VisualVM Launcher --------------------------------- VisualVMLauncher
